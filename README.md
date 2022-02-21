@@ -1,2 +1,2 @@
 # pythonProject
-Python Project for IBA
+Python Project
